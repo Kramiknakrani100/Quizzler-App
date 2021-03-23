@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
     int mIndex;
     int mQuestion;
 
+    // check for github...
+
 
 
     // Create question bank using the TrueFalse class for each item in the array
